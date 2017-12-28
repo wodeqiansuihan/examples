@@ -1,0 +1,13 @@
+'count',
+'index', 
+
+'test', 
+		epochs_completed, 'images', 'labels', 'next_batch', 'num_examples
+
+
+'train', 
+		epochs_completed', 'images', 'labels', 'next_batch', 'num_examples
+
+
+'validation'
+		epochs_completed', 'images', 'labels', 'next_batch', 'num_examples
